@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolay Ivanov</h1>
-<h3 align="center">An aspiring .NET developer from Bulgaria</h3>
+<h3 align="center">An aspiring .NET / React developer from Bulgaria</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
